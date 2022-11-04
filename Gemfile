@@ -7,3 +7,4 @@ gem "just-the-docs"
 
 gem "webrick", "~> 1.7"
 gem "jekyll", "~> 4.0"
+gem 'wdm', '>= 0.1.0'
