@@ -1,6 +1,6 @@
 ---
 title: C언어
-parent: INU
+parent: in_INU
 has_children: true
 nav_order: 1
 ---
