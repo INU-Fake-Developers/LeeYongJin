@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 문법 메모장
 has_children: true
 nav_order: 2
