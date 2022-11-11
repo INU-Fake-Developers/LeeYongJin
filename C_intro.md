@@ -1,4 +1,5 @@
 ---
+layout: default
 title: C
 parent: 문법 메모장
 has_children: true
