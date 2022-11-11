@@ -1,7 +1,7 @@
 ---
 title: Test
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 Another page
 ## 언 어 차 이
