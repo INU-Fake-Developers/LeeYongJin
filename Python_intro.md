@@ -1,6 +1,6 @@
 ---
 title: Python
-parent: Test
+parent: 문법 메모장
 has_children: true
 nav_order: 2
 ---

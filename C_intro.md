@@ -1,10 +1,10 @@
 ---
 title: C
-parent: Test
+parent: 문법 메모장
 has_children: true
 nav_order: 1
 ---
 
 # Child of test
 
-대충 C언어라는 내용
+와 C언어 아시는구나
