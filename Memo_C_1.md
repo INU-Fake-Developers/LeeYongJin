@@ -2,7 +2,7 @@
 layout: default
 title: 1. 기본과 입출력
 parent: C
-grand_parent: Test
+grand_parent: 문법 메모장
 nav_order: 1
 ---
 
