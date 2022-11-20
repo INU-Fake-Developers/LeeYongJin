@@ -11,7 +11,7 @@ nav_order: 1
 int main()
 {
     return 0;
-}`
+}
 ```
 프로그래밍의 기초와 입출력에 대해서 다루겠습니다.
 Hello World! 부터 출력해보죠!  
